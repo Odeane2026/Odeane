@@ -1,8 +1,10 @@
 Hi, I'm Omar Deane
-Aspiring cybersecurity professional with a background in [your background/degree/current role]. Interested in areas such as [network security, threat analysis, SOC operations, digital forensics, cloud security, etc.]. Currently building hands-on technical skills through labs, projects, certifications, and continuous learning.
+
+Aspiring Junior Penetration Tester focused on offensive security, ethical hacking, and vulnerability assessment.
 
 About Me
-🎓 Education: [Degree, University]
+
+🎓 Education: Bachelor of Arts in Business Administration, Audio Engineering Concentration 
 
 🔐 Interests: [Cybersecurity interests/specializations]
 
