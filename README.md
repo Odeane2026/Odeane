@@ -4,15 +4,15 @@ Aspiring cybersecurity professional with a background in [your background/degree
 About Me
 🎓 Education: [Degree, University]
 🔐 Interests: [Cybersecurity interests/specializations]
-💻 Technical Skills: [Python, Wireshark, Linux, SQL, SIEM tools, etc.]
-📍 Location: [City, State] (optional)
-🌱 Currently Learning: [Example: Splunk, TryHackMe, Active Directory, Azure]
-🎯 Career Goal: [Example: Entry-level SOC Analyst / Security Analyst role]
+💻 Technical Skills: Python, Wireshark, Linux
+📍 Location: Wantagh,NY
+🌱 Currently Learning: TryHackMe, Active Directory, Linux
+🎯 Career Goal: Junior Pentester/SOC Analyst
 Certifications
-[Certification Name] — [Month Year]CompTIA Security Plus 	December 2024
-[Certification Name]CompTIA Network Plus 	September 2024
-CompTIA A Plus 	May 2024
-CompTIA ITF Plus 	March 2024
+CompTIA Security Plus-December 2024
+CompTIA Network Plus-September 2024
+CompTIA A Plus-May 2024
+CompTIA ITF Plus-March 2024
 Certificate in Cybersecurity - Southern New Hampshire University (SNHU)	August 2023
 Featured Projects
 [Project Name]
