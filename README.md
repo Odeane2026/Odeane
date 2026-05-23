@@ -6,7 +6,13 @@ About Me
 
 🎓 Education: Bachelor of Arts in Business Administration, Audio Engineering Concentration 
 
-🔐 Interests: [Cybersecurity interests/specializations]
+🔐 Interests: Building practical pentesting skills through CTFs, home labs, scripting, and security projects while expanding knowledge in:
+ Web Application Security, 
+  Network Penetration Testing, 
+  Privilege Escalation, 
+  Active Directory Attacks,
+  Vulnerability Assessment,
+and SOC Threat Analysis
 
 💻 Technical Skills: Python, Wireshark, Linux
 
