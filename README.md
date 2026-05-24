@@ -1,4 +1,4 @@
-Hi, I'm Omar Deane
+# Hi, I'm Omar Deane
 
 Aspiring Junior Penetration Tester focused on offensive security, ethical hacking, and vulnerability assessment.
 
