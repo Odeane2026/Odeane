@@ -2,7 +2,7 @@ Hi, I'm Omar Deane
 
 Aspiring Junior Penetration Tester focused on offensive security, ethical hacking, and vulnerability assessment.
 
-About Me
+## About Me
 
 🎓 Education: Bachelor of Arts in Business Administration, Audio Engineering Concentration 
 
@@ -22,7 +22,7 @@ and SOC Threat Analysis
 
 🎯 Career Goal: Junior Pentester/SOC Analyst
 
-Certifications
+## Certifications
 
 CompTIA Security Plus-December 2024
 
@@ -34,7 +34,7 @@ CompTIA ITF Plus-March 2024
 
 Certificate in Cybersecurity - Southern New Hampshire University (SNHU)	August 2023
 
-Featured Projects
+## Featured Projects
 [Project Name]
 Short 1–2 sentence description explaining:
 
@@ -46,7 +46,7 @@ Skills Used: Python, Wireshark, Linux, SIEM, Networking, etc.
 🔗 Repository Link
 
  
-Contact
+## Contact
 
 LinkedIn: <a href="https://linkedin.com/in/omardeane12"><img src="https://img.shields.io/badge//-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
